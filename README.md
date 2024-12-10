@@ -33,9 +33,11 @@ Switch to drawing mode from design mode
 2. Select the projected view to generate orthographic projections
 
 ## INPUT
-![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
+![WhatsApp Image 2024-10-30 at 9 09 47 AM](https://github.com/user-attachments/assets/8ac2e568-a6e3-449d-88e6-d43f64cf03f9)
+
 
 ## OUTPUT
+![EX CHAIR EDM 1_page-0001](https://github.com/user-attachments/assets/169d7221-be0c-4474-815c-66e6c93ca0be)
 
 
 ## RESULT:
