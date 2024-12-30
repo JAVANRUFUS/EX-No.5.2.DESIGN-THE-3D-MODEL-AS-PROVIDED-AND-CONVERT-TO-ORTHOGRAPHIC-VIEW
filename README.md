@@ -37,7 +37,7 @@ Switch to drawing mode from design mode
 
 
 ## OUTPUT
-![EX CHAIR EDM 1_page-0001](https://github.com/user-attachments/assets/169d7221-be0c-4474-815c-66e6c93ca0be)
+![chair Drawing v3_page-0001](https://github.com/user-attachments/assets/1e9e2df4-a65e-4787-bc9b-ff5d40a47487)
 
 
 ## RESULT:
