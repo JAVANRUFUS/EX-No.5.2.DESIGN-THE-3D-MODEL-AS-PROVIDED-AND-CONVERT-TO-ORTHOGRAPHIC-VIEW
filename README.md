@@ -33,11 +33,13 @@ Switch to drawing mode from design mode
 2. Select the projected view to generate orthographic projections
 
 ## INPUT
-![WhatsApp Image 2024-10-30 at 9 09 47 AM](https://github.com/user-attachments/assets/8ac2e568-a6e3-449d-88e6-d43f64cf03f9)
+![stool](https://github.com/user-attachments/assets/846c8fab-3653-4277-bec5-eb865b14b85f)
+
 
 
 ## OUTPUT
-![chair Drawing v3_page-0001](https://github.com/user-attachments/assets/1e9e2df4-a65e-4787-bc9b-ff5d40a47487)
+![dtool_page-0001](https://github.com/user-attachments/assets/2a60bb34-fc1c-4aa3-b48d-8e6248d5dbb5)
+
 
 
 ## RESULT:
